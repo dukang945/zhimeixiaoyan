@@ -17,7 +17,7 @@
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.7.2",
     "multi-cascader": "^1.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.15.2",
     "vue": "^2.5.2",
     "vue-clipboard": "^0.0.1",
